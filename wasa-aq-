@@ -1,0 +1,959 @@
+--[[
+_____ _______ _______ _______ _______
+( ___ \ |\ /|( ____ )( ___ )( ____ \( ____ \
+| ( ) )( \ / )| ( )|| ( ) || ( \/| ( \/
+| (__/ / \ (_) / | (____)|| (___) || (_____ | (_____
+| __ ( \ / | _____)| ___ |(_____ )(_____ )
+| ( \ \ ) ( | ( | ( ) | ) | ) |
+| )___) ) | | | ) | ) ( |/\____) |/\____) |
+|/ \___/ \_/ |/ |/ \|\_______)\_______)
+_______ _______ ______ _______ ______
+( )( ___ )( __ \ ( ____ \ ( ___ \ |\ /|
+| () () || ( ) || ( \ )| ( \/ | ( ) )( \ / )
+| || || || (___) || | ) || (__ | (__/ / \ (_) /
+| |(_)| || ___ || | | || __) | __ ( \ /
+| | | || ( ) || | ) || ( | ( \ \ ) (
+| ) ( || ) ( || (__/ )| (____/\ | )___) ) | |
+|/ \||/ \|(______/ (_______/ |/ \___/ \_/
+______ _______ ______ _______ _______ ______
+( ___ \ ( ___ )( ___ \ |\ /||\ /|( ____ \( ___ )( __ \
+| ( ) )| ( ) || ( ) )| ) ( |( \ / )| ( \/| ( ) || ( \ )
+| (__/ / | | | || (__/ / | | | | \ (_) / | | | | | || | ) |
+| __ ( | | | || __ ( | | | | ) _ ( | | ____ | | | || | | |
+| ( \ \ | | | || ( \ \ | | | | / ( ) \ | | \_ )| | | || | ) |
+| )___) )| (___) || )___) )| (___) |( / \ )| (___) || (___) || (__/ )
+|/ \___/ (_______)|/ \___/ (_______)|/ \|(_______)(_______)(______/ --]]
+print "enjoy! :D -bobuxgod"
+return(function(l,...)local M="This file was obfuscated using PSU Obfuscator
+4.0.A | https://www.psu.dev/ & discord.gg/psu";local I=l['v0wmOA'];local
+k=l[((466982753-#("I'm not ignoring you, my DMs are full. Can't DM me? Shoot me
+a email: mem@mem.rip (Business enquiries only)")))];local
+r=l[((#{744;317;14;242;}+211550067))];local i=l['FokS6'];local
+O=l[(857276161)];local h=l[(823961621)];local L=l[(515037146)];local
+c=l[(610266286)];local w=l[(345266098)];local u=l.hWivi;local g=l.JNemytcQ;local
+s=l[((#{614;759;(function(...)return 306,443,110,...;end)(65)}
++357115020))];local t=l[((983466313-#("you dumped constants by printing the
+deserializer??? ladies and gentlemen stand clear we have a genius in the
+building.")))];local U=l[((741336540-#("why does psu.dev attract so many ddosing
+retards wtf")))];local J=l[(894933224)];local _=l['bJ0g3'];local
+G=l.iPz1lbor;local p=l[(422865400)];local n=l[(372313307)];local
+x=l[(865958704)];local W=l[(193799276)];local y=l["xMvaY"];local
+N=l["Ijoy1ym"];local Y=l.CDgZpR05;local a=l[((#{489;828;308;(function(...)return
+51;end)()}+165049699))];local j=l[(940342764)];local D=l["G5DVs"];local
+A=l["NkoJfpYA1"];local R=l[(159656376)];local
+E=((getfenv)or(function(...)return(_ENV);end));local o,f,e=({}),(""),
+(E(n));local
+d=((e["\98"..l.OvLaJ..l[h]..l['yWFahaxAzR'].."\50"])or(e["\98"..l['OvLaJ'].."\11
+6"])or({}));local
+o=(((d)and(d[""..l["INuUndM"]..l[N].."\111\114"]))or(function(l,e)local
+n,o=n,c;while((l>c)and(e>c))do local d,i=l%a,e%a;if d~=i then
+o=o+n;end;l,e,n=(l-d)/a,(e-i)/a,n*a;end;if l<e then l=e;end;while l>c do local
+e=l%a;if e>c then o=o+n;end;l,n=(l-e)/a,n*a;end;return(o);end));localb=(a^w);local m=(b-n);local v,F,B;local s=(f["\103"..l[u]..l[s].."\98"]);local
+b=(f[""..l['INuUndM'].."\121\116"..l[t]]);local
+s=(f[""..l[u].."\117"..l.INuUndM]);local
+P=(f[""..l[y]..l['s6ycYh6vO']..l[i]..l[x]]);local
+S=(e["\115"..l[t].."\116"..l[I]..l[t].."\116"..l[i].."\116\97"..l["INuUndM"]..l[
+r].."\101"]);local z=(e["\112\97\105\114\115"]);local
+X=(e["\109"..l[i].."\116"..l['s6ycYh6vO']][""..l[g].."\108\111\111\114"]);local
+f=(e[""..l[x].."\97"..l['wiZBMx78M'].."\115\101\116"]);local
+f=(e[""..l[h]..l[D].."\112\101"]);local
+C=(e[""..l[u].."\101"..l[r].."\101\99"..l[h]]);local
+D=(e["\116"..l[k]..l[p].."\117"..l[I]..l["INuUndM"]..l[t]..l[x]]);local
+f=((e["\117\110\112"..l[i]..l[y].."\107"])or(e[""..l[h]..l[i].."\98"..l[r].."\10
+1"]["\117\110\112\97"..l[y]..l[_]]));local N=((e[""..l[I]..l[i].."\116\104"]
+[""..l[r].."\100\101"..l[N].."\112"])or(function(l,e,...)return((l*a)^e);end));v
+=((d[""..l[r]..l[u]..l['s6ycYh6vO'].."\105"..l[g].."\116"])or(function(e,l,...)i
+f(l<c)then return(F(e,-(l)));end;return((e*a^l)
+%a^w);end));F=((d["\114"..l[u].."\104\105"..l[g].."\116"])or(function(e,l,...)if
+(l<c)then return(v(e,-(l)));end;return(X(e%a^w/a^l));end));local
+w=(d[""..l["INuUndM"]..l[p].."\111\116"])or(function(l,...)return(m-
+l);end);B=(d[""..l["INuUndM"].."\97"..l[p].."\100"])or(function(e,l,...)return((
+(e+l)-o(e,l))/a);end);local a=(d["\98\111"..l[x]])or(function(e,l,...)return(m-
+B(m-e,m-
+l));end);if((not(e[""..l["INuUndM"].."\105\116\51\50"]))and(not(e["\98\105\116"]
+)))then
+d["\114\115"..l.s6ycYh6vO..l.OvLaJ..l[g].."\116"]=F;d["\98\97"..l[p].."\100"]=B;
+d["\98"..l[k]..l[x]]=a;d[""..l.INuUndM.."\110\111\116"]=w;d["\98\120\111\114"]=o
+;d["\108"..l[u]..l["s6ycYh6vO"]..l["OvLaJ"]..l[g].."\116"]=v;end;local
+g=(((e["\116\97\98\108"..l[t]]
+[""..l[y].."\114\101"..l[i].."\116\101"]))or((function(l,...)return({f({},c,l);}
+);end)));local u=(e[""..l[h]..l[i].."\98"..l[r]..l[t]]
+[""..l[y].."\111"..l[p].."\99"..l[i].."\116"]);local
+a=(e["\116\97\98"..l[r]..l[t]][""..l['OvLaJ'].."\110\115\101\114\116"]);local
+a=(e[""..l[h]..l[i].."\98"..l[r]..l[t]]
+[""..l[x].."\101"..l[I].."\111"..l['BNIXqvyb']..l[t]]);e[""..l.INuUndM.."\105\11
+6\51"..l[j]]=d;local e=(R);local a=(#M+L);local t,x=({}),({});for l=c,a-n do
+local e=P(l);t[l]=e;x[l]=e;x[e]=l;end;local u,a=(function(o)local
+i,d,l=b(o,n,O);if((i+d+l)~=W)then e=e+G;a=a+U;end;o=s(o,J);local e,d,i=(""),
+(""),({});local l=n;local function c()local e=D(s(o,l,l),A);l=l+n;local
+n=D(s(o,l,l+e-n),A);l=l+e;return(n);end;e=x[c()];i[n]=e;while(l<#o)do local
+l=c();if t[l]then d=t[l];else
+d=e..s(e,n,n);end;t[a]=e..s(d,n,n);i[#i+n],e,a=d,d,a+n;end;return(u(i));end)
+("PSU|
+22L1410276277278142751011111021O21O27727d1021v21U27e27C27E21821927n27J21T21t2771
+21227O27627a2782761g1G27621B21b28225S26n2191R1927622c1Z1I101B213213181923H1Q1827
+6237171l1J1621021r1s22P1M27B22v161C1823b28q27622828Z1Q1T1t161123g1K1627622721510
+1L1M1h22u1j27n22h22329t27622g22228d27622S1M28w21G21328V1622u1n1527622d1h2191422n
+1w1u1C28f28h28J21P21I1n141v1A1623B29j27621v21D2AR1L1h23B2ab27622b21c121D1923b292
+29A21o1D1o22Z1O1a27621Z1y1H2132aQ2aS2Au23B1H132762321b1i22821327627J27g2771X1X10
+1A1b1127a1i299101p1r1227E111u1V1127X1I2A12Cf2cH1x1Z121A18121F1F1i1g27y2cF1q131X1
+y131A191317172D72D92DB1C1c2D12D31p1T141x211141A1E142dD2dp2DR2dT15151X1w111a1F152
+dD11151421S21W142dZ2DK2761P1S2e0210152E41516161X2Ek2em2Di2EF2Cf1V2EP213161a1c2eO
+2EX2EZ2f12Dz2e12e31D172eO112FA21S21Y162E72Fa1T1v2D31I2bu2eg2d52dF216215131E1E1I2
+bJ27621U21z152cB151T1U2BV102Fq2FS1b2ca27e1F1A2aC101I29X2ev2f32f0162Cz1I28i2fY21x
+1727J181E29k27z1w2132Gs111H1l142121X1727X112fg2G42g62g8131D1D27J1K1N2G627T27v276
+18182cJ282102812gg2FX102a328w21F21n28r1B2Bb1S1e2Ad2121m1N21N2131U2G128l1L2b22bT2
+g621X2171A23a2Bd102Ij1r1O22v2BK27z2c42c22Gc1F2C52C71a2bK27D2fM2G61p1o112F72c927d
+2j82e22Ja27X23O23X28E101N1N27O2dd2iw102172172772GO27728l27z27u27w27Y2dI27628u2b5
+1022c21N1q1m1b23e2cE28T2a828y2902In2IP1O23j1L172AY217191f192CI23a2CQ2hX162A62A82
+2u2kK2ay21827e1B161N22u1v1D2I62I82Ia2iC111w219191l23b2ak2762251Y1Q161m21321j27e1
+R1122n1z2Hv2KU2Hz2I12bb2ce29B1s29d29f29H131h2BL2bN21e2151C1M2lo1121C21d1t1C21i21
+91n22r1R2Jo2iV2G72j02ca2dD2j42eG2cs2cu2cW122dV2N02Cx2HO23O23Z1b276192hp27x2Eo276
+2c62c82mv172MX2Cr122CT2cv2cx2N32no2CI1123o24E1q2761n1M2CN122GA2JO1F1e27N2f721621
+7112GA2GT1927N24k25A2nW1021l21k27n2cZ2c227c21721627N2cP2ji2132122j82Mu2e31a1I2K3
+2oU27J112o42o62JD2Ca2J12EU2p22Ng2JA27a2o72O92f22gW1021M21L1327J2C212131R1q27s27E2JX280142PN102dz2761i2L72L92I92Ib2g12lE2LG2B42Gf2K52k72k92kT2A41621A2Q61122u2KG2
+172Iq23J2q3102Ll2Ln1m2141Y1p1j2hO1b1Q23D2L82Iu27H2Nf2OX2q12fn2nl2NN2n12nf2n41227
+a2n72n9102NB2O02NE2Mt2nH2Or2R92cG2nM2RE2rd2NR27D23o23S2Al2JJ2nz27X2O22gG2d22762j
+V2HL277132pm27n102SA2Q11P2rI239151k152B22182qJ22U2Qf28W2Qi2Lc22U2Lx2Qg2lz28j1923
+02jI2C32R52gg2GI2j62Nt23W28r2JJ2jL27d2se2S42DL2J723o2t827622622727N2Q02gg2GP2CF2
+j727J1Z1x2D32HH1l2pt102PV2sd2pm2c92q12HV2212qJ21i213122gM23g2SQ2Qh2SO2hV2bM2BO2B
+Q2at2aV2lj102u62lC21j2Kn2KP2Kr2UD2kw28W22u122851022D2i72Q52LC2bp2aR2uK23b2KZ27K2
+l128j2L422J2882hr1i2iN29429623b2SG2762SI2sk2Sm2UF2IT2Ly2i02sy23i2Mq2r42Js2hV2p21
+i2v921u21v2tC121C1E2Fl2GI2132112CI132w72w92q12in2WC2We2wG2d32rM2PJ2pl2py2os2S621
+02d62J02DB2nf2D82Fr132F22gs27621m21r152H82sc27c2eD2IQ2HC2wW2sA2d62wz2fs2EO27Y2d3
+21i21f2G12xB1o2G62cD2t91p2Fp2XH2wF122p02gF2fz2XO2g32G52wY2dG2Xf2hD2xj112g62xm2y2
+2XC2Jo2U02Fb2nb2r82G62BX1i22t2Vm102241Z1C2B921R21c1h1r1p142qL2932952972ax1022821
+D1J1n2R022u2Ce2U61T28u1F1d2Av2Uy2q42lB2id2Uj2bs2ug2bN2V52bR2av2v92KU1e1F1V22x2UZ
+2t22Js2in1p1p2RN2j12Js2gi2W42jb102zG2tV2wf29E2Js2S52TQ2jC112O82h9162xZ2FY21t2pM2
+PP1t1s27n2Wo21M21k2NS27o2w22kL102Wk31122mY2nm2xe2SA2hh1M2tv2Pu2hM2hs2752py2772Jn
+1028727624824h24Z23625522b2Ce2381H192Lg1v29f22u1T2IY2k421d311x1l311z162zR2v72vI2
+Z22vL2ri2yq2Ys1D27G2bG1s1N22o2Zp2ui2V62bS2V92282BF1O312L1123J2rz31012yJ2EG31052n
+G2162162pZ152eU21u21s2wL310g2r610313531112Tp313a2xY2rQ2xV2y62Eo2dF2da1327A2Cn2pq
+2VX2Jw311f281311k2nk2YL22t2z42z62z82za2HV22C2Mj2ml2lr102lt23g2zc2132Ze1l2zG2zt31
+1321V2Vb2L32L52Yo312g2yt2yv2Yx2yZ2M82LK2lm2lO2lQ2Ls2lu23621B2eL1822u2R331302gG2r
+q31332j02iT2GG2K3310A27J310d2c2310F1t2Iz2RO27D2J92CA27X315Q310n2pf2cb1427X27721I
+21h310s2pq2ps2YF313x27b2771J1j2U42iT22a2131r2AP312Q162222vf27726o25r1g316K2782vH
+2z12vK314Q2yR314s2yw2yy2zb2t92m32M529G21t316p101w22O22A31432Z72Z91q2Z02762bc181T
+2aa2Gf2aE2aG2aI314f314h314j2ih2bW2BY22G316P23K25r1f22a2V922b2132h229O1123A312O31
+2a2bs2iN2311C1L1S23E2K322u1a2BV1T312N2It2212102f1122152192dC1921v317522K24c26j2j
+R2vy316B313231062bK2Ga316r2fy2w5315I1D310e12313d31062ni315T1h1h2GH27n313J2Nk2Xu2
+xG132X02Fu2jt2Fy2G02g22Hb2Y5313Q2hf2Hd2hO2HH2HJ31312D4319p319R2FV313i319v2eD319X
+2g72D8319z1D31a12HP27E2hI2Xr2CQ319O313p2dB3196310i21u21y2Do2cu2Eq2g12J82EK220225
+2eN2ep2Ek1v1Q31382gO31AS21W310o31222Eg1U2DE212171A2F92842nN1X21531Aj31Bn1822321V
+182FB27E181F31131x31bH1V1O2NJ1I2h91731Ad1H2Sk2122132Ya1324k23W21427621l21N2w71c2
+jV2tE2FY313B2nn21G21i2NS2Dg2762q02S82nA28E21F21E27E1i2Z422R1H2B12B32Um21Z2122962
+1i21I2M92zE191K22P2WB21h2I427622A21J2CX1R1h1Z21f1R1d1N2M623G2v922v121h1j2o11o22s
+31D51C11319b1L317J2A22fc1n1i239314W1022U1F1R1n2gM31551f2H11H2l41r318K2R922121M21
+e23225u22E22226622625422h24v2193147314921J2182SA1T21t1X31eK312T319b162F9132hP1n2
+1d31fF1331fh1x2K323431E52l823i2Zj31242Mk1w2121j1f1t2M831451d1q22Z318A318C318E2cE
+21Y3154192142141m1r23E2tP31D42gW314M31fg31Fi314F1Q1y21j1D1p1g316j28222h1P22a2cE2
+392LO2NY2SL1l2372UG21e1S21m2ZN314k2762361n1K141G1m17316Z27629s31dw31dY29G23g31Bd
+1031e231eu1j1m28q2H22If2fT2Bb2z421w2h61g2PR22K23W21621u25025M1e22825w2MN2Gf23412
+1r17317d2V921V2uR2KQ31852cq23B1O1T2j62m82uA23b11316a10236171R31FS2mF31Hs1n2pK1j3
+1hX31dZ2U5318O16318q318s171923I152jL31jc1G1Q1p28I29q1T1d22m1l101s31JQ2FA1f2ys2CZ
+2112in22B21I1431Ed2YO31IS1t31dS2L421721K1i1S23F31ek31Dp318D2el122B21121j316e1T28
+w122V831132IJ1f31IA1122321p22E24K22n1H26l24K2602192z421V1Y2961n1j23731Ix2181T1n1
+y31hh21Y2512g627623425y31lm2gW22X31c72I82a92In21y21511317d2cq31IY193169121n31D72
+2O2in22621B316t2ri22b2X62Au2122122r031MN2Z42322IQ31By312m31JA2FY21931DX1d21R2141
+b1n22B22U1z21X22q21N19319J1022P2k331d62i22YZ2UM2372P01j1c31C72ZF2ZH2qa2b621n111r
+162ve2HR311L316P24G25n21722a2k331MU2eL2AV2yo2Uo2G121N21931bx2L431Ee31I231e31j142
+352z42372Mf1H31je23g318731hk31o12uN31JP1231h42771W22m21Q22A2R92371a1N23g31G22v12
+LA2qj31882AV31Ln1521G31nw2972r92341s1u22O2um22f21i317H2mc1T21D2o9151823a31I13148
+3126312831pn31p421y31Pr2vK2Ce21U28H1m21h2Z72A931I131KW2EI1a31Kz1H111Y21B2LT31ht3
+1G231482MK28L162dn1e21231fT31FV2Z422P18142zg1R317E2z521d
+318D23e2V922a21f16131B2bV23I31IX2kN31k731QV23a2r92Yl317U28221T1123326Y21w24k2512
+5921J26L31LL2IN317L1423J2uM21u2191t2NZ31FR31r931FI2K32Qs2lo31P827623k25N1B22A2qq
+22P22a2Gs2fg2E71L29e1721H31g231QK1218318c1T1Q1R1a21331so1S25c22m25821E24324926O2
+3e24t2k328g28I1b23G2YO22621n1o31N41w21F2uS2Aw2gw22I1j2131A111t22f318w1s233316p21
+S26726722A2HV2312O11d2ZX1u2cp1t22k317v25f1322a316u312H312j312v312M3180318231K72T
+X23A2uM31tv2ao31hk31st1023K25G1431h8317029C29E317323c21j22i23E23j25P1O25X2192cE2
+BM31QT1831EU1B2bI2iT2Yq1831CS316H23b31Ek23531hq28421M21c1131Q5311W311y31202yo2uH
+2Uq2e8182i831TX2QQ2391R1u319d31Ko1n31kq31KS23F2cq31Vc28k28m28o2Ce31qb31WK2A9311u
+1r1S2fA31iU192392R931rn2bh2V922321A31Hi2182cA312E2fY21c2aR1A2dP2fg1q1729127B2382
+fg1G2982T922R2I22Kk2M81C23j3143312U312L22O2k32381L31ia23B31dN1031Y82ko2kQ1G2EN1n
+31h131HR22p314q21L1k21e31Df1031dH31DJ2Gg2B621K1a2B2171D1E31I521G2BF1l1i192Fj31yD
+2Gw3144317c31o727821p23h22a31Ek31oX1H310v2l82OA31wW2fJ1l31Ep1D22e22O25F22L1e21B2
+2F23826k21931yn31u931Ub31UD21M2132BA1N2ew318K318g31ZB1V1m31vF24g26631pC31v1316w3
+14u31Rh22b21M1j1v31L727622I31t81f1b2me31y131DO21j2vD24J1V25Y24l25T25S24l26Z24023K1E1A23825p27l22B31792GW31dB29627q223317523221a22A2Um2U61O2Yy1E31De2Ar2Z822l31uj
+21E21e321W27631nq19141r21S317522t21122A2in314m31xR31g222021P1o1c31Es31FN21I21P31
+4c21031qo22U2yO31ZV2l42eD315R1L22z2k322e31h031H232152z531yF1N1122p2v922P1f29d2Ho
+31sg31G2318v151p1321J1X1M1G161b2GE323s31Y031tU31G61815318v2781G23231Pc2CQ2b72b91
+921D2lf2LH324j2Yv2jL1b21531Hh23f2gI1a32282ri31DP31dr1H31u41j2R022j22521i23w2541F
+24g1F27328C2JI22P1k31o41S31IU314C31hu2yP2112ZW1S31dH23931yN31R21c2181p219151E2db
+182za2Z431I32L4122392V931oX31W92iN2BC1J1s21T25K2472591I24r23Q23n226325g27622x1Q2
+1821O2s22hg23a2K321t21e1029q325o31i331mM310U31nN31Tu21D141C1U22p31yN31DP3246111n
+1x31z231Z422P324Y2b621m1432281d31t529g21o2Xn1D31K921r316v2BA3220316P25C2491P31ui
+2822241C31oE2gf22B21N2bA1023I2K322t2JL29E22o2CE31I3101H327C327E31yn2Uh21c3242324
+4324615324822p31J21i1731zW2961e29R31I131Fl2Ua31Fo31Fq21231492L62r3318b2Ds21M2141
+531eW31yk326222222c324u23K26521925D26M326r1031Q02F921K1z31K73185318021m1B1E2e631
+Xh31yn327631Ea2vC31HY31ud32932jI31Fl31V421h324V2hv31oG2Au21I2B82ba31J32It31y82ZH
+2CX32311o22e31752261E22A192vx31ID2dC1k2J62uQ2Lg2132161a32961821A31rv21d21F325531
+xz323p311322v32642kQ31Xr2Qq29b31xY171w31P331e131E32l41B31E732aQ21o31XZ31eU21I21e
+31G822k22s24K21424824y24A25426o316o28223W25O22A31N631oR1H2JQ2m42ar1521N21i2hG2r0
+29e1d22z31Ek22b21E1o21G31gN2gG31jq21J21j31hP31hr31HT2v922e31rO1n31eW21S1W2in2K52
+sD324E278316m31VX2T931tA1831DS31tB23D329b2111122c31Oe1k2292211722622031dx1N31YM2
+I531jC31je31JG2LO1731Jj21F1P1k23731JW31HM31Jz31k132731H31k431k6102lN321a315x2dz2
+7Y1v31uj1w1w322S27b2242Fs1I31oq31ID31jq1D23i141M2fy2cU31Tc31t531tF1A21c31g631g83
+1ga2z931gC22z2QQ22221132BZ32C131w92cq21T1y102lO31K81T1B22E24o24H1s25626C1h152273
+18S2m932cU31ZX27c1B32001v320231fN22Z325v314931Fb3260326231Fp2zA2r931M8317D31fc31
+R332Au2oD23a31X83149213321232142hv31Em31Eo31i632622zg31rt3113325w2mm1n22Y2z42202
+Ag312K23e2Hv31i31Q1b142z831Hs31oQ328f2kL31rG2v921Z21h2z8311Z32d51Y21C2ay2b031eb2
+ze22B22c1R2271q1q22q31N831yU31nB1b21W2cz22z21031pW141T1H1e22321Y31zj22A23121831Q
+T31jT21z22C310v1Q22p31Qj2191b1T21q21q32Jl23H310i22n1o22D31oW31xf31JT239317O31NZ2
+AV31yN21u21c1r31Bx21P2I7181o21121f31k422i22I22b21823u24z22E23a321V32DK32dm31Ew31
+fi2YO31811631xg21D323I31h323c1826i26i26s24525721m240316p24026l21p22A2Kt2H92YS31J
+5152bB31g222r326X31hj171O31yU151D2sl2B331H931hb31Fn2Q92YO31741d1b31c71Y21R31xY22
+U31yn31u031u232En327l32dh1B31O032cT31zV32Cw1q32CY32d032D22m532D52V9326T21821p329
+631hE2iN2381T2cW23D2k332g11d21721931va2RZ22w2KL141d31jl31Dx2M621t22322F21a265252
+25k22D25W1G26021N22m24221H25K26z21y22a31I123B329o32J321M21o2e531K131zC31i52Im31y
+22Ba2LH2Qm2qo31yN31gj31bI31Qx31Qz31Wo31q722321025u2521F22W2vw22A2192qq21V21I2kL3
+17C21J31lP1831Lr23732hU2152Gd28N31Xs31g31c1z2111j2M931V932Fl322J31d731Kj1H21M218
+31jh32EN31Jk31jM31HZ326E1532PA22Q2um2ll1b1H1P1932AT316x2yz2yO31d61j2cp1R2i832i33
+12m2KB29q31Z331JT31dj2um32ay1632B031zB151V1J2bC27b22f21E2nb32o5317F1M317H2KY32hP
+2b0102qy1723G2UM22B32c931Tg21j32c2311322U1k1t1221R1L152282K32372m81m1p317428221u
+1231UN2It31gj31eo322b32Q8318l28f314921I314b314D323932pK31Jj326w2l832du27721X1523
+326a2X91w25V1g22C152431I2381I26l2232192r922t1m1322Q31Pe2L423432Mn1718172aL12322O
+27825C24P21532RR31do316e316g2ZS323k21X21p29F2NZ2b32r932J71p23d3175317732fB27622q
+2L81332s827621O23G32LB2ji31sj32jL21R21532J32Av2R92k51v22q2cq22R1c29e2Ps2ze1B32P5
+318N318p31R831gv1S317V25L1932U027622E2Px31p32YO325w31Pn22224724m24b23225626h1623
+l32co27821V31uz2ce322X322Z32311d32QS31i2312d2qq2262172bu31J41P31r81j1P1e31v53113
+31Hn31hP325L32eg32dr329h2Cq2202131V29o1n21C21732R12cQ22A21n325R21f21h2Yx22Q2k331
+SF22N1T3175218230328927826826731m631HM31g72C91221U316P26823z21B31V02RI22e21r31O5
+111K1d21L2V2322E28221a23232us32P621k31jS318U32x123O21031sY2r321u32wa2Ge31Ia32542
+za31ek31sR2lP32s13152315432mW322T31rV329I322J32LK2MN318D31Fm32QN31HV31En32Eg31G2
+31Gj151o31d731xg1Y21731LA326231j12Ji32G731dy1V1N31l0326z2gF318h318J31Yh2gf2Z6329
+22r932bt1b32oM2BV3159315y27631De2gg22222g319827d27q1g1I2fl24G24y310q131i21621k2F
+Y31AU1i26V26D319u31381G2PM1021U31bb1I21Q27r33052gR326m2552fy222181i32PD330522319
+1i21C32g833052202oz25u25c2FY2212BY26Q2682fY2262DJ23522r2fY2271D1I23T24b2Fy2242Fv
+26u26c2fy2252d026X26J2FY22A32zM327d2fY22B319j24623o2fY2282go25124n2fY22932Q423b2
+2t2Fy22e1K1i26926r2fY22F31zH32Ig2fY22C1m1I21a2r521u22D31Eh330j21u22I1o1I24o2562F
+Y22J31K131c527E21U22G1q1I24023m2fy22H1R1I26s26E2FY22M1s1I31Si32Wm1i26k2722fy22K3
+1ut32B82FY22L1V1i23V2492FY22q1W1i32E0332y22r1X1i21721l2Fy22o1Y1i21121j2Fy22p28H2
+3p2472FY22U2101i24N2512FY22v2113197330522S21231Gs2FY22t2131i1E1t332y22Y2141I26f2
+6T2Fy22Z2151I22W23e2fY22W2161I23A22s2fy22X2171I25024M2Fy2322181I32eT33052332191i
+26D26V2fY23021A319k2fy23121B1I23x24F2fy23621C1i25h25Z2FY23721D2w229G330523421e1I
+23U2482FY23521F2Xs2FY23A21G1121H21g21Z21X2NS1I22p23732zr330821832zw142fW2cA33052
+G01I22622K2fY330726g26Y2gq2nj1e1S330f330H27026m2Fy330L1I26h26z2Fy330r1I23r245330
+V2BY21i21033102Dj25B24T3315331726425Q331b2fv31G8331G2d023I230331L32ZM22Y23c331P3
+19j23e22w331u2GO23h233331Z32q432K233251i21D1Y332Y332b1i1Y21D332y332f1i32C6332y33
+2L1I21L3190332O332Q22122j332u31K121921r2fy33301i24823u3335333723G232333B333d2552
+4R2FY333G27326l333k31ut23C22y333o333q25G25Y333u333w23d22z2FY33401I25e25s3345334722j221334b28h23K242334g334i2R921U334n1I327P334Q334s25724p334u334w24A23S2fy33511i
+24m2503356335825W25I335C335E17325J3305335J1i22I220335O335q24y24g2fy335U1i26325l3
+35Z336122V23933633365332i3369336B23223G336f336H24223K2Fy336L1i26t26F336Q336S24u2
+58336u336w336y337027x2XY25X25J33761d1u332y32zX26j26X33011i24523r337I310o28U337m1
+I21h2c13305330G1i21n214332Y337V21R2vB21U338031E3332y330w339h2oQ330533111I25824U3
+38c31zI316421u331c1I23722P338J330i323n3305331m1I23422Q338r1I25224k338v1I22r23533
+8z1i21b3234330533922W3339724F23x332E332g21G2122fy339G26a26O2FY332p333e2hg3305332
+v1i22D21z339s333121021I339X2Bz21U33a11i26525r33a51T1i23M24033A91I26y26G33aD339D3
+1053305333v33931z33aL334122E21W33aq1I25p26733au1I1Z21D33ay1I22722l334M334O26M270
+2Fy334r1I23W24E33B91i21Y22C33Bd335222921V33bi1i21f2c73305335D1I25Y25G335i335K25M
+26033BV1I29z33bz335V23F22x33C432sl22u33c81i31EK21U336a1I21821Q33cf1I25L26333CJ33
+6m24P25733CO1I22N22533cS336x336z33712sa1I21e1x332y310R1i21z22D33791I26P26b33d726
+B26P33db1i25D25v33de1c2cM33dI330H1W3272330K330m1Z31wG330Q2OZ22l227338428I2Gp21u3
+3dz25q26433e324b23t338G1I21j210332Y331h1I21k2o933EE32ZM21p21a332Y331Q1i31I121u33
+1V1I22b2Hm21U332031EI22v33243326161K332A31ZH336D33F11i26125N33f531eh21O21a33f933
+2Q1s31es33Fd31K125J25X33fi1i24s25A33Fm22O23633fP21O21b332y333G25c25U33FY24X24J33
+G223y24C33ah1i24I24w33G9319T330533461i31u4332Y334C1i25n26133GL26I26w33gP1I25324L
+33Gt334S25f25T33GY23Z24d33h21i23q24433h623J23133bm1i22q23433HF1i22322h33hJ1Q2Od3
+35T335v311P33hq22c21y33Ht1K2X333HW336b26c26U33i124923V33I51i26r26933i927226k33id
+33CU3371313s27e1w1z2Xr24V25933792cj1Z2122gf1i33nT33DB23n22V331f2GG29225X33L22gG3
+38X2eG1h1831bq31W021531mE2pp1z2162ji1i21v229337z2Oz338T2EG339D31kS32eI1P1L1C1x21
+91C2Au32p71y1j33o1330533162ya1221k21i32Ei2P4334y1h312z2WF21p21d2di31ea31bW31rQ2q
+131as33112OA1A1S1M2f031Ea32461r2Qy27623N22E33O921a2161426d330033OA338Y2Cf2dn2DW2
+dS2Ed2g133oj33NY2q123N24133Db2fc32kt1V27B1I33Hh2eg33qE2dQ33qG22222233fV33fX337d3
+1Ay1031tc33Qs33Qu2cf2ei31ax2Em33Qz33FN33qO31bW32lQ2q133R81p2Ew1X2EY2GL33rd1d32w6
+330B2H033R52gv33rI33Hi2cF31BF31c031bI2f933rD33FR337q2gt31By33rw33Oc33Oe31bo31W03
+3RD21H2OV33j82Gt33r533s82cf1g191X21419318I1933sD33sF33DR31uc31Bw1133Om33RJ1J31XW
+2IK2BK1A33Rp33Rr21U330W2Gt2Cv33sj31k11b1x216327I1B33ss332y33ps33pO2rI33qt33Rx33O
+X33OZ33p133p333TI33P82hG31BW327C33tb32xb1X2181D32bi1D33t5338g2GT32LP33tB1N1e1x21
+b321q141E33rd316A33Ju31es31Bw1632EI33tn2eg1m1F1X21a2Gd329133rD22833fO33JZ2gt1731
+2333Uo2cf191G1X21D1g1A1q31h333R033rQ338R2Gt1o2UZ333X2LT2Cf31W11x2yV1A31DS23u23U3
+3VN1H33VP1H22J22J33VT21621N1H21S21s33E033E233053320112gH2mk32go1h22Q2372121Y1431
+9I1i33A72Eg33vM33vO31ds23b23b33vT33VV24s24s29R23B33wg33Wi319i33WE2121Z2E9337A31E
+k1P33wN33vu31dS2712711I24w24i33eN33xe33Er33xh33Ev325J1l32Rb1c33wc21V22A33x215319
+i21d26s25h31rP15259326L33X633x833Vv33xB1I1x21f33En21I32e533w732Q41H2CI33XK1133XM
+33wb2761H22n22633Xs33Wj33ij27E33X71H33ws31Ds33RD25424q33EN33Y733er22s23A33KG33y6
+33y83305332b32XA31T533xo33yK22622N33YO319j33yq33VL33Yt33Wo1h33rD33z0330533K82152
+1N33ER33zN21U339233K733kK33z933Yj328R22Y23F33zf2mj21829K1621u21U33wD33wF1w162EE3
+3Y233zj33x91H33y524323L33y933Yb33Kc32q424Z24H33Kg33yH33Xn33xP33xR340c33xu33xw340
+633Y033II33iK33ZI33Yu33ZL33R023023I33yZ33z6340O1i24L25333Z433Zt33z81k33ZA33wC33z
+D212340X33Zg341333Ys341533zM341b33k824C23Y33ZS341b339224123n33zX341j33zZ1h340134
+1n1633XU1B21M340632f933hu32GO341R33zK33y52A6332y33K8342k33Yc1i342n33Zu33xl340u33
+yK2XY213341o33WK33a8341433zk23Z23z341521h21H1h24E23z342833wj23323h33WM340g33VV33
+rd32ct33k72gO343i33Kd343i3392343i341i341k33YK21o219343A1H21D24e24v34062nY1G33x12
+h62eo342F343E341533y533yA342L2GO344a342o344D342R340T342533xQ2h53296343w340z2fC34
+1133ZH342h340h33Rd2ar344b33z533Er23l243341G341B343Q3425341M2H633Yp341q33Y333YV33
+r033zt33k825O266341y33z432K533962tX342433zB340034023455319j33WL3430340h31353415
+23Q23q1h21n216344k33WJ340F344833XC21f2E233ZO2go21221g345F33Yg33Yi345l1h32I134603
+43W24924o29g1725B25b31Fs31Xe2Fc2843446345r33Y434643466343J1i3469346B344g346d33wC
+31TG346h33K52o53305331q1H26425P347622F21X33ej33x62BY33Y733B3332Q33Y53465332Y33Kd
+347033xK344w33z7345j31T52d02C21g1H21q21l31C41i23o24633EJ345q2sg2Go3485338z31Ja1I
+21P336531691i25t25F348C32Q4348f2gh29T347z3481348326025M3487342z34891I348T348l348
+E348G32Q4131G347p29T348m349211348Q34822Go340A21221A31bU310o3462342i33XC344F33K83
+44f33KD344F3325344H346e344J349g33WJ33p721U347A25w25h349F31w1341P33YR3458341633jr
+211341A33er182oh342r347T21u3452346e341M349v34A4346u345934af33K825s25E34713392224
+22m3423343R345M34A233WJ348834a631351i24k252338V349a1h21P218319j2fM345Y34AZ319J25
+I25W338R33PH1S21334ak346t344R346V34ao344c340n33KD162tX346C342T328r347534bn26625O
+33Vf2OO21L2GP34B821q31q12Go33h7346X347A347C34BF1i26826q34c411334334C7348q34Ca2Fm
+33X121b193445349j340h3449340n349N34BT32q4349q342s344I33xr34Cs349w33NU3479319i34a
+021234D634aL34Bp34an22M22434Aa342o26Z26H345034aw345333ze34dd341234A5343F34an345b
+2Go34AQ34as332634Au34dO346e342734Dr34B134dU1h34b334B534b7347z34Ba34Bc345x345Z34D
+r34bH34bJ1c34bL34dr34CV34bq34dW1i349O32q434Bv332y349r347333Yk347534DR34C234cK34c
+M347Y348021J330m2gO347o34d9347b347D34DR2Qq349y319J329m34EB34F434F634CH34Cj34D92C
+J34f227C348q34f52go34042951a3408349e32Jb340E342g34a6340j340l346734eQ34D01i340q340S34ew328r344J32jB34D734Bj34DB34gd34De34A633Rd341834dJ341C21T22B34dN347u33zy34Ai
+33ZE34GH34DS34am34a734EP341w34dZ1I24j24x34E233wC342734gH21d342B34fU342e34en33XA3
+3xC22022i33EN34Hg33ER34hj34Bx3425342v34Gv34e63415343234343436343831r81A343b343d3
+4Gx343h31jB346Y343L32Q4343n3326343P347V3425343T34HW33WJ152NZ34f925a24v34iC33X033
+Wf32Jk2P934Hd340i349l34cy34f7346x33kd34f8347234BY1h344j32jk34Ge34F934Db34j034Gi3
+4e733Rd25R26534gm33KD27126N34gQ34Ag34I934Gt21234j434gw34dF34GY341u2go22Z23D34H13
+4h334H533yK342734jJ34HQ33zK345t33Zk345v34EF34ji32Pv319J348F34EJ34bL34Jj34IO33Y52
+9V340M349634AF34Ev34ix347534Jj34f034fm34c534cN348021h2by34IS33k3319i34cF34jj34Fd
+33k41M2G1346734C834kp34cb34Ci34F134C634f321q34l234Cq33wF21633p22Oz34KA34iQ344V34
+IV34iU346X34Kg34d421234lc34J134FE1H34DB34lO34J5341S33R0344U34g433ZT33kD2cq34aE34
+1H34JG341l33zE34LT34Jk34gJ345a34Jn1i33ZQ34Jr34h434Gr345K34h6340234m734JX345s2163
+45u345w34BE34m734K634F934ek32bg33xo319J34lf34BR34af33Kd33ZT34LL346E347534M734Kk3
+4fE34FN34L634FP348021e2DJ34kr34f934Cf34m7347F347h342g347J336S324y1i33y534lZ34d13
+40n33921V32ag34jF33zy347x34nB21q34ND34l334fL34N834Km34l734O233931T340532mC34fW33
+x121732LQ313834my340k34kD342o34g834Hm349T33Xr34Of34lp349Z34a134oQ34lu33zK33rd262
+25K34jA32q423123j34JE34AH34m521234OU34M834J634mA33eN24723p34h11a1p345I34gS34MI34
+p71d342a342c32mC34Hc34g034e733Y522U23833en34pu33ER34px34ON33wc342V34P834mL33vv34
+Hs33zk34353437343934P8343c344734Ow33R0343i33K834i431c534I2343o34i234P5343S343U34
+p834Ie34ks1h34ih34PL319i349E21432aB34Oh34pR346334g5344V34er34r334Q033yk344j34Qy3
+4Or34DA34A134RA34OV344s33r023s24a34p01I25k26234P434M433Zc33ZE34rE34P934LV34MZ21m
+31Me342o34N2332626l27334JT34Ay34rS34q431DS34jZ340H34K134Be34rs1p31UC34mT34Bl34RS
+34MY34EP34NR34Kf34D334n41a21234rS34N7331Q34n934Kn21q21C31a934cc34qS34CF34rs34l43
+4kl34Cl34na34C834Sw349d33X132p22ee26O26A33Ej33I72eg34Nm347l1I33Rd21c1z34Ke34rZ34
+4h34nz34C821d2D02gO34my349M34bS34KE34d2349S340v21232P234rb34lr34a134U3319j24E23w
+34L534Su34tS34cb344q34M91i23622o34rK26W26I34ro34pJ34Rq34u21f345634DT34ru34eP21x2
+2F34h134Uw34s33426340234u7349e21i1G2gN34tV34IR34R6341C34Tz34gA34IY33xr34V534U434
+db34VG34rF343g34PB34G424Q25434H134vO34v0342734vj1I21W22e33Ej34DW34c821a32ZM2gO25
+v25d34Bj21721M21234vj2fg27N21m32vN27j2EE32QZ33YR34KQ26E26s3490348N316934B833jA31
+jb2gt33312Jo33H02GP16315x2X4335234wF313834WH2CF1a32q434wK340s2gh33K11j1k325j32q4
+1Z32DG2Jo32E034WR27E21y22d31JB340D2G634Rw29T2ix28I29X1p1D332634X734GR33XM21p2153
+41J2TX2Gh1z21i31k727Z181s33KJ27Z32nT34yC31cy10343510"),(#M-Y);local function
+n(e,l,...)if(e==4979014)then return(o((o(l,163596))-
+50406,223690));elseif(e==622114520)then
+return(o(o(o(o(l,851350),906149),247713),388993));elseif(e==276570866)then
+return((o((l)-128348,524106))-731071);elseif(e==674299360)then return((o((l)-
+878795,829294))-690216);elseif(e==933861401)then return((((l)-323039)-654942)-
+870504);elseif(e==596705168)then return(o((o((l)-285986,527928))-
+989685,55291));elseif(e==978265370)then return(o((o(l,808964))-
+81047,283356));elseif(e==66119379)then return((((o(o(l,141301),543813))-331814)-
+530372)-902659);elseif(e==945498202)then return(((o(o(l,967406),581908))-98822)-
+981603);elseif(e==903019832)then return(((((l)-426287)-759253)-645590)-
+50937);else end;end;local i=l[(165049703)];local h=l[(610266286)];local
+d=l[(372313307)];local I=l["d08S3"];local F=l[(857276161)];local
+m=l[(313805814)];local n=l[(858632273)];local y=l[((214369582-#("PSU|
+161027525v21222B11273172751L275102731327523d27f22I27f21o26o24Y21J1827F1X27f1r27F
+23823a26w1... oh wait")))];local p=l[(768964195)];local function c()local
+l,d=b(u,a,a+i);l=o(l,e);e=l%n;d=o(d,e);e=d%n;a=a+i;return((d*n)+l);end;local
+function t()local l=o(b(u,a,a),e);e=l%n;a=(a+d);return(l);end;local function
+r(e,l,n)if(n)then local l=(e/i^(l-d))%i^((n-d)-(l-d)+d);return(l-(l%d));else
+local l=i^(l-d);return(((e%(l+l)>=l)and(d))or(h));end;end;local function
+i()local i,c,d,l=b(u,a,a+F);i=o(i,e);e=i%n;c=o(c,e);e=c%n;d=o(d,e);e=d
+%n;l=o(l,e);e=l%n;a=a+y;return((l*m)+(d*p)+(c*n)+i);end;local v=""..l[I];local
+function n(...)return({...}),C(v,...);end;local function U(...)local
+U=l[(958328612)];local O=l[((#{485;78;201;}+75043068))];local
+B=l[(214369477)];local J=l[((#{}+339199088))];local v=l[(797143168)];local
+L=l[((#{988;}+468669902))];local D=l[(858632273)];local n=l[(372313307)];local
+A=l['pH64vs'];local E=l[(382233151)];local C=l[((#{552;301;(function(...)return
+935,...;end)(562,393,396,874)}+857276154))];local g=l[((396486916-#("why the
+fuck would we sell a deobfuscator for a product we created.....")))];local
+I=l[(345266098)];local y=l[(894933224)];local
+k=l[((#{276;24;175;211;}+874100694))];local M=l[((#{511;833;255;513;
+(function(...)return 594,...;end)(568,661,151,302)}+379540715))];local
+Y=l[((#{61;}+200283497))];local S=l[(839437817)];local P=l.GNdCisXI;local
+d=l[(610266286)];local R=l.tdeWIE;local j=l[((863686320-#("IIiIIiillIiiIIIiiii :troll:")))];local p=l[(165049703)];local
+w=l[(155046399)];local function F(...)local m=({});local l=({});local h=({});for
+l=d,i(e)-n,n do m[l]=F();end;for c=d,i(e)-n,n do local f=t(e);if(f==S)then local
+e=t(e);l[c]=(e~=d);elseif(f==k)then while(true)do local i=i(e);if(i==d)then
+l[c]=('');break;end;if(i>M)then local d,t=(''),(s(u,a,a+i-n));a=a+i;for l=n,#t,n
+do local l=o(b(s(t,l,l)),e);e=l%D;d=d..x[l];end;l[c]=d;else local n,d=(''),
+({b(u,a,a+i-n)});a=a+i;for a,l in z(d)do local l=o(l,e);e=l
+%D;n=n..x[l];end;l[c]=n;end;break;end;elseif(f==E)then while(true)do local
+a=i(e);local o=i(e);local i=n;local a=(r(o,n,U)*(p^I))+a;local e=r(o,J,j);local
+o=((-n)^r(o,I));if(e==d)then if(a==d)then l[c]=(o*d);break;else
+e=n;i=d;end;elseif(e==Y)then
+l[c]=(a==d)and(o*(n/d))or(o*(d/d));break;end;l[c]=N(o,e-A)*(i+(a/
+(p^L)));break;end;elseif(f==O)then while(true)do local e=i(e);l[c]=s(u,a,a+e-
+n);a=a+e;break;end;else l[c]=nil end;end;local o=i(e);for l=d,o-n,n do
+h[l]=({});end;for m=d,o-n,n do local o=t(e);if(o~=d)then o=o-n;local
+b,f,a,s,x,I=d,d,d,d,d,d;local u=r(o,n,C);if(u==n)then
+a=(i(e));x=(t(e));f=(c(e));elseif(u==y)then
+a=(i(e));x=(t(e));f=(c(e));s=(c(e));b=({});for l=n,s,n do b[l]=({[d]=t(e),
+[n]=c(e)});end;elseif(u==g)then elseif(u==C)then
+a=h[(i(e))];x=(t(e));f=(c(e));s=(c(e));elseif(u==p)then
+a=h[(i(e))];x=(t(e));f=(c(e));elseif(u==d)then
+a=(c(e));x=(t(e));f=(c(e));s=(c(e));end;if(r(o,B,B)==n)then
+f=l[f];end;if(r(o,v,v)==n)then I=h[i(e)];else I=h[m+n];end;if(r(o,g,g)==n)then
+s=l[s];end;if(r(o,y,y)==n)then a=l[a];end;if(r(o,w,w)==n)then b=({});for
+l=n,t(),n do b[l]=i();end;end;local
+l=h[m];l['UNzjj']=x;l["RPYol"]=a;l['PbctTJFjlG']=f;l['llPBwMRIbq']=s;l[410018.34
+44571599]=b;l[P]=I;end;end;local n=c(e);local e=t(e);return({["abS"]=d;[-R]=h;
+['ISg']=l;["A1cME"]=e;["cB4R2cep"]=m;
+["xbd07f"]=n;});end;return(F(...));end;local function b(l,s,i,...)local
+t=l["xbd07f"];local y=0;local p=l["cB4R2cep"];local c=l["A1cME"];local r=l[-
+29359];local l=l['ISg'];return(function(...)local l=(823836536);local
+d="llPBwMRIbq";local a="RPYol";local u={...};local e={};local h=-(1);local
+x={};local o='PbctTJFjlG';local l=(true);local m=410018.3444571599;local
+n=732641;local F="UNzjj";local I=({});local r=r[y];local y=(C(v,...)-1);for
+l=0,y,1 do if(l>=c)then x[l-c]=u[l+1];else e[l]=u[l+1];end;end;local u=y-
+c+1;while(true)do local l=r;local c=l[F];r=l[n];if(c<=38)then if(c<=18)then
+if(c<=8)then if(c<=3)then if(c<=1)then if(c==0)then
+e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=l[d];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]][l[a]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=l[d];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]][l[a]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=l[d];l=l[n];e[l[o]][l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=
+e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];l=l[n];elseif(c<=1)then
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];l=l[n];end;elseif(c==2)then e[l[o]]=i[l[a]];l=l[n];local
+c=l[o];local i=e[l[a]];e[c+1]=i;e[c]=i[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local
+i=l[o];e[i]=e[i](f(e,i+1,l[a]));for l=i+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];local o=l[o];local
+a=e[l[a]];e[o+1]=a;e[o]=a[l[d]];l=l[n];l=l[n];elseif(c<=3)then
+e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local i=l[o];e[i]=e[i](f(e,i+1,l[a]));for l=i+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];l=l[n];end;elseif(c<=5)then if(c==4)then l=l[n];local
+a=l[o];h=a+u-1;for l=0,u do e[a+l]=x[l];end;for l=h+1,t do
+e[l]=nil;end;l=l[n];local o=l[o];do return
+f(e,o,h);end;l=l[n];l=l[n];elseif(c<=5)then r=l[a];end;elseif(c<=6)then e[l[o]]
+[l[a]]=l[d];elseif(c==7)then
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];l=l[n];elseif(c<=8)then local l=l[o];e[l]=e[l](e[l+1]);for
+l=l+1,t do e[l]=nil;end;end;elseif(c<=13)then if(c<=10)then if(c>9)then
+e[l[o]]=e[l[a]][l[d]];elseif(c<10)then if(e[l[o]]==e[l[d]])then
+r=l[a];end;end;elseif(c<=11)then
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];
+e[l[o]]=l[a];l=l[n];l=l[n];elseif(c==12)then for l=l[o],l[a]do
+e[l]=(nil);end;elseif(c<=13)then e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]][l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]][l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+o=l[o];e[o]=e[o](f(e,o+1,l[a]));for l=o+1,t do
+e[l]=nil;end;l=l[n];l=l[n];end;elseif(c<=15)then if(c>14)then
+e[l[o]]=s[l[a]];elseif(c<15)then l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=s[l[a]];l=l[n];local c=l[o];e[c]=e[c]
+(f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];local
+c=l[o];local i=e[l[a]];e[c+1]=i;e[c]=i[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local
+o=l[o];e[o]=e[o](f(e,o+1,l[a]));for l=o+1,t do
+e[l]=nil;end;l=l[n];l=l[n];end;elseif(c<=16)then
+e[l[o]]=g(l[a]);elseif(c==17)then
+l=l[n];i[l[a]]=e[l[o]];l=l[n];e[l[o]]=l[a];l=l[n];for l=l[o],l[a]do
+e[l]=(nil);end;l=l[n];i[l[a]]=e[l[o]];l=l[n];for l=l[o],l[a]do
+e[l]=(nil);end;l=l[n];i[l[a]]=e[l[o]];l=l[n];for l=l[o],l[a]do
+e[l]=(nil);end;l=l[n];l=l[n];elseif(c<=18)then local n=l[o];e[n]=0+
+(e[n]);e[n+1]=0+(e[n+1]);e[n+2]=0+(e[n+2]);local o=e[n];local
+d=e[n+2];if(d>0)then if(o>e[n+1])then r=l[a];else
+e[n+3]=o;end;elseif(o<e[n+1])then r=l[a];else e[n+3]=o;end;end;elseif(c<=28)then
+if(c<=23)then if(c<=20)then if(c==19)then e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=(l[a]~=0);l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=(l[a]~=0);l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+o=l[o];e[o]=e[o](f(e,o+1,l[a]));for l=o+1,t do
+e[l]=nil;end;l=l[n];l=l[n];elseif(c<=20)then local l=l[o];e[l](e[l+1]);for l=l,t
+do e[l]=nil;end;end;elseif(c<=21)then
+l=l[n];e[l[o]]=s[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];l=l[n];elseif(c==22)then local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=(l[a]~=0);l=l[n];e[l[o]][e[l[a]]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=(l[a]~=0);l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]][l[a]]=l[d];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]][l[a]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=l[d];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];l=l[n];elseif(c<=23)then if(e[l[o]]~=e[l[d]])then
+r=l[a];end;end;elseif(c<=25)then if(c>24)then e[l[o]]=i[l[a]];elseif(c<25)then
+local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]][l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];l=l[n];end;elseif(c<=26)then e[l[o]]=l[a];l=l[n];e[l[o]]=e[l[a]]
+[e[l[d]]];l=l[n];e[l[o]]=e[l[a]];l=l[n];local a=l[o];e[a]=e[a](e[a+1]);for
+l=a+1,t do e[l]=nil;end;l=l[n];e[l[o]]();l=l[n];l=l[n];elseif(c==27)then local
+n=l[o];e[n](f(e,n+1,l[a]));for l=n+1,t do e[l]=nil;end;elseif(c<=28)then local
+a=l[a];local n=e[a];for l=a+1,l[d]do
+n=n..e[l];end;e[l[o]]=n;end;elseif(c<=33)then if(c<=30)then if(c>29)then
+e[l[o]]=e[l[a]]-e[l[d]];elseif(c<30)then local n=l[o];e[n]=e[n]
+(f(e,n+1,l[a]));for l=n+1,t do e[l]=nil;end;end;elseif(c<=31)then
+e[l[o]]=e[l[a]]*l[d];elseif(c>32)then e[l[o]]=e[l[a]]-l[d];elseif(c<33)then
+e[l[o]]=g(256);end;elseif(c<=35)then if(c>34)then
+e[l[o]]=e[l[a]];elseif(c<35)then e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=(l[a]~=0);l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=(l[a]~=0);l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]][l[a]]=l[d];l=l[n];e[l[o]][l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]][l[a]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=l[d];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];l=l[n]
+;end;elseif(c<=36)then l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=s[l[a]];l=l[n];local i=l[o];e[i]=e[i]
+(f(e,i+1,l[a]));for l=i+1,t do e[l]=nil;end;l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];l=l[n];elseif(c>37)then e[l[o]]
+[l[a]]=e[l[d]];elseif(c<38)then
+e[l[o]]=g(l[a]);l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[
+n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[
+n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[
+n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[
+n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[
+n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[
+n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[
+n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[
+n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[
+n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[
+n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[
+n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[
+n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];l=l[n];end;elseif(c<=58)then
+if(c<=48)then if(c<=43)then if(c<=40)then if(c>39)then
+l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=s[l[a]];l=l[n];local i=l[o];e[i]=e[i]
+(f(e,i+1,l[a]));for l=i+1,t do e[l]=nil;end;l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];local
+i=l[o];local o=e[l[a]];e[i+1]=o;e[i]=o[l[d]];l=l[n];l=l[n];elseif(c<40)then
+i[l[a]]=e[l[o]];end;elseif(c<=41)then local o=l[o];e[o](e[o+1]);for l=o,t do
+e[l]=nil;end;l=l[n];l=l[n];elseif(c==42)then local n=l[o];local
+o=e[l[a]];e[n+1]=o;e[n]=o[l[d]];elseif(c<=43)then
+e[l[o]]=(l[a]~=0);end;elseif(c<=45)then if(c>44)then
+e[l[o]]=l[a];l=l[n];e[l[o]]=e[l[a]][e[l[d]]];l=l[n];e[l[o]]=e[l[a]];l=l[n];local
+a=l[o];e[a]=e[a](e[a+1]);for l=a+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+();l=l[n];l=l[n];elseif(c<45)then local l=l[o];do return
+f(e,l,h);end;end;elseif(c<=46)then local n=l[o];local d=e[n+2];local o=e[n]
++d;e[n]=o;if(d>0)then if(o<=e[n+1])then
+r=l[a];e[n+3]=o;end;elseif(o>=e[n+1])then r=l[a];e[n+3]=o;end;elseif(c==47)then
+l=l[n];e[l[o]]=i[l[a]];l=l[n];local c=l[o];local
+r=e[l[a]];e[c+1]=r;e[c]=r[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];local
+c=l[o];local
+r=e[l[a]];e[c+1]=r;e[c]=r[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=i[l[a]];l=l[n
+];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];local o=l[o];e[o]
+(f(e,o+1,l[a]));for l=o+1,t do e[l]=nil;end;l=l[n];l=l[n];elseif(c<=48)then
+l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]-
+e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]]
++e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]]+e[l[d]];l=l[n];local c=l[o];e[c]=e[c]
+(f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];local
+c=l[o];local r=e[l[a]];e[c+1]=r;e[c]=r[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];local
+c=l[o];local
+r=e[l[a]];e[c+1]=r;e[c]=r[l[d]];l=l[n];e[l[o]]=s[l[a]];l=l[n];e[l[o]]=i[l[a]];l=
+l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local i=l[o];e[i]=e[i]
+(e[i+1]);for l=i+1,t do e[l]=nil;end;l=l[n];e[l[o]]=g(256);l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];local i=l[o];e[i]=e[i](f(e,i+1,l[a]));for l=i+1,t do
+e[l]=nil;end;l=l[n];local i=l[o];local
+a=e[l[a]];e[i+1]=a;e[i]=a[l[d]];l=l[n];local o=l[o];e[o](e[o+1]);for l=o,t do
+e[l]=nil;end;l=l[n];l=l[n];end;elseif(c<=53)then if(c<=50)then if(c==49)then
+e[l[o]]=l[a];l=l[n];e[l[o]]=e[l[a]][e[l[d]]];l=l[n];e[l[o]]=e[l[a]];l=l[n];local
+a=l[o];e[a]=e[a](e[a+1]);for l=a+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+();l=l[n];l=l[n];elseif(c<=50)then e[l[o]]=l[a];l=l[n];local c=l[o];e[c]=e[c]
+(f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];local r=l[o];local c=e[l[a]];e[r+1]=c;e[r]=c[l[d]];l=l[n];local
+c=l[o];e[c](e[c+1]);for l=c,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];local c=l[o];local
+r=e[l[a]];e[c+1]=r;e[c]=r[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];local r=l[o];local
+c=e[l[a]];e[r+1]=c;e[r]=c[l[d]];l=l[n];local c=l[o];e[c](e[c+1]);for l=c,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=e[l[a]]-l[d];l=l[n];e[l[o]]=e[l[a]]
+%l[d];l=l[n];e[l[o]]=e[l[a]]*l[d];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=i[l[a]];l=l
+[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]=e[l[a]]-
+l[d];l=l[n];e[l[o]]=e[l[a]]/l[d];l=l[n];local i=l[o];e[i]=e[i](e[i+1]);for
+l=i+1,t do e[l]=nil;end;l=l[n];e[l[o]]=e[l[a]]*l[d];l=l[n];local
+i=l[o];e[i]=e[i](f(e,i+1,l[a]));for l=i+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];l=l[n];end;elseif(c<=51)then e[l[o]]=e[l[a]]
+[l[d]];l=l[n];i[l[a]]=e[l[o]];l=l[n];e[l[o]]=s[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];i[l[a]]=e[l[o]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];local
+o=l[o];local a=e[l[a]];e[o+1]=a;e[o]=a[l[d]];l=l[n];l=l[n];elseif(c>52)then
+l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];l=l[n];elseif(c<53)then
+e[l[o]]=e[l[a]]+l[d];end;elseif(c<=55)then if(c==54)then e[l[o]]=b(p[l[a]],
+(nil),i);elseif(c<=55)then local c=l[o];e[c]=e[c](e[c+1]);for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](e[c+1]);for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];local c=l[o];local
+r=e[l[a]];e[c+1]=r;e[c]=r[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]][l[a]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=l[d];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local i=l[o];e[i]=e[i](f(e,i+1,l[a]));for l=i+1,t doe[l]=nil;end;l=l[n];e[l[o]][l[a]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=l[d];l=l[n];e[l[o]][l[a]]=e[l[d]];l=l[n];l=l[n];end;elseif(c<=56)then
+e[l[o]]=#e[l[a]];elseif(c==57)then if(e[l[o]]~=l[d])then
+r=l[a];end;elseif(c<=58)then local t=p[l[a]];local c=l[m];local n={};local
+a=S({},{__index=function(e,l)local l=n[l];return(l[1]
+[l[2]]);end,__newindex=function(o,l,e)local l=n[l];l[1][l[2]]=e;end;});for
+o=1,l[d],1 do local l=c[o];if(l[0]==0)then n[o-1]=({e,l[1]});else n[o-
+1]=({s,l[1]});end;I[#I+1]=n;end;e[l[o]]=b(t,a,i);end;elseif(c<=68)then
+if(c<=63)then if(c<=60)then if(c==59)then
+e[l[o]]=l[a];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=e[l[a]]
+[e[l[d]]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=e[l[a]][e[l[d]]];l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=l[a]
+;l=l[n];e[l[o]]=e[l[a]][e[l[d]]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=e[l[a]]
+[e[l[d]]];l=l[n];e[l[o]][e[l[a]]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=e[l[a]][e[l[d]]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];l=l[n];elseif(c<=60)then end;elseif(c<=61)then
+e[l[o]]=e[l[a]][e[l[d]]];elseif(c==62)then e[l[o]]
+[e[l[a]]]=e[l[d]];elseif(c<=63)then e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];local o=l[o];e[o](e[o+1]);for l=o,t do
+e[l]=nil;end;l=l[n];l=l[n];end;elseif(c<=65)then if(c>64)then do
+return;end;elseif(c<65)then e[l[o]]=e[l[a]]+e[l[d]];end;elseif(c<=66)then
+e[l[o]]=l[a];elseif(c>67)then e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=(l[a]~=0);l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=(l[a]~=0);l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=e[l[a]][e[l[d]]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];l=l[n]
+;elseif(c<68)then local l=l[o];h=l+u-1;for n=0,u do e[l+n]=x[n];end;for l=h+1,t
+do e[l]=nil;end;end;elseif(c<=73)then if(c<=70)then if(c==69)then
+l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];l=l[n];elseif(c<=70)then e[l[o]]
+();end;elseif(c<=71)then local n=l[o];local a=l[a];local d=50*(l[d]-1);localo=e[n];local l=0;for a=n+1,a do o[d+l+1]=e[n+(a-n)];l=l+1;end;elseif(c==72)then
+e[l[o]]=e[l[a]]%l[d];elseif(c<=73)then
+e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=(l[a]~=0);l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=(l[a]~=0);l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local c=l[o];e[c]=e[c]
+(f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=(l[a]~=0);l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local i=l[o];e[i]=e[i](f(e,i+1,l[a]));for l=i+1,t do
+e[l]=nil;end;l=l[n];e[l[o]][l[a]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];l=l[n];end;elseif(c<=75)then if(c>74)then
+e[l[o]]=e[l[a]]/l[d];elseif(c<75)then
+e[l[o]]=e[l[a]];l=l[n];e[l[o]]=l[a];l=l[n];local c=l[o];e[c](f(e,c+1,l[a]));for
+l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local c=l[o];e[c]=e[c](e[c+1]);for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local c=l[o];e[c]=e[c](e[c+1]);for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local c=l[o];e[c]=e[c](e[c+1]);for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local c=l[o];e[c]=e[c](e[c+1]);for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local c=l[o];e[c]=e[c](e[c+1]);for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local c=l[o];e[c]=e[c](e[c+1]);for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local c=l[o];e[c]=e[c](e[c+1]);for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local c=l[o];e[c]=e[c](e[c+1]);for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local c=l[o];e[c]=e[c](e[c+1]);for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local c=l[o];e[c]=e[c](e[c+1]);for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];local c=l[o];e[c]=e[c](e[c+1]);for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];l=l[n];end;elseif(c<=76)then
+e[l[o]]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]][l[a]]=e[l[d]];l=l[n];e[l[o]]
+[l[a]]=l[d];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]
+]=l[a];l=l[n];local c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]][l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]][l[a]]=l[d];l=l[n];e[l[o]]
+[l[a]]=l[d];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+c=l[o];e[c]=e[c](f(e,c+1,l[a]));for l=c+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]
+[l[a]]=e[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=l[a];l=l[n];local
+i=l[o];e[i]=e[i](f(e,i+1,l[a]));for l=i+1,t do e[l]=nil;end;l=l[n];e[l[o]]
+[e[l[a]]]=e[l[d]];l=l[n];l=l[n];elseif(c==77)then
+e[l[o]]=e[l[a]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=i[l[a]];l=l[n];e[l[o]]=i[l[a]
+];l=l[n];e[l[o]]=e[l[a]]
+[l[d]];l=l[n];e[l[o]]=l[a];l=l[n];e[l[o]]=#e[l[a]];l=l[n];local i=l[o];e[i]=e[i]
+(f(e,i+1,l[a]));for l=i+1,t do e[l]=nil;end;l=l[n];e[l[o]]=e[l[a]]
+[e[l[d]]];l=l[n];local i=l[o];e[i]=e[i](e[i+1]);for l=i+1,t do
+e[l]=nil;end;l=l[n];e[l[o]]=l[a];l=l[n];local c=l[a];local i=e[c];for
+l=c+1,l[d]do i=i..e[l];end;e[l[o]]=i;l=l[n];local o=l[o];e[o](f(e,o+1,l[a]));for
+l=o+1,t do e[l]=nil;end;l=l[n];l=l[n];elseif(c<=78)then if(not(e[l[o]]))then
+r=l[a];end;end;end;end);end;return b(U(),{},E())(...);end)
+(({[(874100698)]=((18));[(540557142)]=("\121");[(75043071)]=(((168-#("you dumped
+constants by printing the deserializer??? ladies and gentlemen stand clear we
+have a genius in the building."))));[(857276161)]=((3));
+[((#{659;}+858632272))]=((256));["JNemytcQ"]=(((714242551-#("IIiIIiillIiiIIIiiii
+:troll:"))));[(193799276)]=((248));[(422865400)]=(((613274809-#("psu
+34567890fps, luraph 1fps, xen 0fps"))));[(466982646)]=(((#{315;729;292;500;
+(function(...)return 679,828;end)()}+620387867)));['NkoJfpYA1']=(((129-#("Luraph
+v12.6 has been released!: changed absolutely fucking nothing but donate to my
+patreon!"))));[((#{658;351;602;946;(function(...)return...;end)(378,168)}
++610266280))]=(((#{(function(...)return 150,335,287,356,...;end)(255,613)}-6)));
+[((797143353-#("Luraph: Probably considered the worst out of the three, Luraph
+is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse
+Xen, and it isn't as fast as Ironbrew either.")))]=((8));[(983466194)]=(((#{689;
+(function(...)return;end)()}+370573481)));
+[(783866121)]=("\117");G5DVs=(((#{594;879;847;724;(function(...)return 277;end)
+()}+540557137)));[(214369477)]=(((97-#("Luraph v12.6 has been released!: changed
+absolutely fucking nothing but donate to my patreon!"))));
+[(944513298)]=("\50");yWFahaxAzR=("\51");['BNIXqvyb']=("\118");
+["v0wmOA"]=(((422224526-#("Luraph v12.6 has been released!: changed absolutely
+fucking nothing but donate to my patreon!"))));[((#{(function(...)return;end)()}
++204801896))]=("\114");[((#{877;(function(...)return 986;end)()}
++485782119))]=("\35");[(165049703)]=((2));
+[(863686293)]=(((#{488;949;811;}+28)));
+[(839437817)]=(((#{791;}+36)));FokS6=(((583447375-#("you dumped constants by
+printing the deserializer??? ladies and gentlemen stand clear we have a genius
+in the building."))));[(620387873)]=("\111");
+[((#{915;630;}+357115024))]=((783866121));[((379540745-#("psu == femboy
+hangout")))]=(((5038-#("psu 34567890fps, luraph 1fps, xen 0fps"))));
+[((#{96;470;143;(function(...)return 647;end)()}+200283494))]=(((2068-#("psu ==
+femboy hangout"))));INuUndM=("\98");Ijoy1ym=((665746016));["OvLaJ"]=("\105");
+[((159656428-#("I hate this codebase so fucking bad! -
+notnoobmaster")))]=(((#{761;121;}+87)));[((865958734-#("please suck my cock
+:pleading:")))]=((204801896));[((823961648-#("IIiIIiillIiiIIIiiii
+:troll:")))]=(((#{}+441489345)));tdeWIE=(((#{550;519;321;622;}+29355)));
+[(894933224)]=((5));[((396486875-#("please suck my cock :pleading:")))]=((6));
+[((821101530-#("LuraphDeobfuscator.zip (oh god DMCA incoming everyone
+hide)")))]=("\99");['pH64vs']=((1023));[(422224433)]=("\109");
+['GNdCisXI']=((732641));["CDgZpR05"]=(((275-#("Luraph: Probably considered the
+worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as
+secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew
+either."))));[((515037228-#("who the fuck looked at synapse xen and said 'yeah
+this is good enough for release'")))]=(((186-#("psu == femboy hangout"))));
+['xMvaY']=((821101471));[((#{591;}+271449076))]=("\108");[((741336540-#("I hate
+this codebase so fucking bad! - notnoobmaster")))]=(((272-#("Luraph v12.6 hasbeen released!: changed absolutely fucking nothing but donate to my
+patreon!"))));['bJ0g3']=((708201816));[(370573482)]=("\101");
+[(583447256)]=("\97");[(468669903)]=(((#{815;(function(...)return
+139,267,663,798;end)()}+47)));[(940342764)]=((944513298));
+["d08S3"]=(((#{31;741;240;}+485782118)));[(79984730)]=("\115");
+['s6ycYh6vO']=("\104");[((211550190-#("you dumped constants by printing the
+deserializer??? ladies and gentlemen stand clear we have a genius in the
+building.")))]=(((271449182-#("PSU|
+161027525v21222B11273172751L275102731327523d27f22I27f21o26o24Y21J1827F1X27f1r27F
+23823a26w1... oh wait"))));wiZBMx78M=("\119");[((958328664-#("I hate this
+codebase so fucking bad! - notnoobmaster")))]=((20));[((345266150-#("I hate this
+codebase so fucking bad! - notnoobmaster")))]=(((99-#("@everyone designs are
+done. luraph website coming.... eta JULY 2020"))));
+[((#{85;963;792;}+613274768))]=("\110");
+[(714242524)]=("\102");hWivi=(((79984804-#("psu premium chads winning (only joe
+biden supporters use the free version)"))));[(665746016)]=("\120");
+[(313805814)]=(((16777283-#("i am not wally stop asking me for wally hub support
+please fuck off"))));[((768964274-#("Are you using AztupBrew, clvbrew, or IB2?
+Congratulations! You're deobfuscated!")))]=(((65655-#("you dumped constants by
+printing the deserializer??? ladies and gentlemen stand clear we have a genius
+in the building."))));[((#{47;608;739;(function(...)return 980,954,416,970;end)
+()}+382233144))]=((47));[((#{238;876;108;}+372313304))]=((1));
+["iPz1lbor"]=(((133-#("psu 34567890fps, luraph 1fps, xen 0fps"))));[((155046492-
+#("Luraph v12.6 has been released!: changed absolutely fucking nothing but
+donate to my patreon!")))]=((7));[(339199088)]=(((42-#("psu == femboy
+hangout"))));[(441489345)]=("\116");[((708201877-#("guys someone play Among Us
+with memcorrupt he is so lonely :(")))]=("\107");}),...)
